@@ -1,4 +1,6 @@
-
+/* Fadhil Firoos */
+/*   121140142   */
+/*       RB      */
 function ganjilgenap(){
     // deklarasi variabel mengambil element berdasarkan nama id
     let inputvalue = document.getElementById('inputvalue').value;
